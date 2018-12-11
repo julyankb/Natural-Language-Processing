@@ -1,4 +1,4 @@
-## Component of Natural language processing course final project. 
+## Component of Natural language processing final course project. 
 
 - Task is to disambiguate a list of locations by considering its distance to other locations in the paper. 
 
