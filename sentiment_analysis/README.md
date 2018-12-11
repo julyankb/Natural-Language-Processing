@@ -1,1 +1,1 @@
-Natural-Language-Processing
+Sentiment Analysis project for NLP course.
